@@ -1,5 +1,5 @@
 class r10k (
-    'config_file'
+    config_file
 ) {
     $gemlist = [
         "r10k",
