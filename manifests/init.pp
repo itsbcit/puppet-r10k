@@ -1,6 +1,4 @@
-class r10k (
-    config_file
-) {
+class r10k {
     $gemlist = [
         "r10k",
     ]
